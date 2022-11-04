@@ -1,0 +1,12 @@
+requests==2.25.1
+optparser==1.5.3
+bs4==4.9.3
+PIL==7.2.0
+numpy==1.19.5
+pandas==1.0.5
+feedparser==6.0.8
+folium==0.12.1
+cv2==4.5.3
+plotly==5.3.1
+matplotlib==3.2.2
+streamlit==1.1.0
