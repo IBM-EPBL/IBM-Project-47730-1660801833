@@ -1,0 +1,811 @@
+﻿EVENT CATEGORY,EVENT GROUP,EVENT SUBGROUP,EVENT TYPE,PLACE,Province/Territory,EVENT START DATE,FATALITIES,INJURED/INFECTED,EVACUATED,ESTIMATED TOTAL COST,NORMALIZED TOTAL COST,EVENT END DATE,FEDERAL DFAA PAYMENTS,PROVINCIAL DFAA PAYMENTS,PROVINCIAL DEPARTMENT PAYMENTS,MUNICIPAL COSTS,OGD COSTS,INSURANCE PAYMENTS,NGO PAYMENTS,UTILITY/PEOPLE AFFECTED,MAGNITUDE
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,New Brunswick,NB,2014-07-05,0,0,0,12500000,,,,12500000,,,,,420000,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Manitoba,MB,2014-06-25,0,0,560,1.00E+09,,,,,,,1000000000,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,AB,2014-06-15,0,0,500,0,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,British Columbia,BC,2014-06-01,0,0,4500,3.00E+08,,2014-09-30,,,300000000,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northwest Territories,NT,2014-06-01,0,0,100,5.50E+07,,2014-09-18,,,55000000,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,New Brunswick,NB,2014-04-14,0,0,1495,1.60E+07,,,,1.60E+07,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec,QC,2014-04-14,0,0,1000,0,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,New Brunswick,NB,2013-12-22,0,0,0,0,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Québec,QC,2013-12-21,6,,0,0,,2013-12-26,,,,,,,,153000,
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Ontario,ON,2013-12-21,2,25,0,164200000,,,,4200000,160000000,,,,2490000,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Toronto, Ontario",ON,2013-07-08,0,0,0,9.40E+08,,2013-07-08,,,,,,940000000,,300000,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,AB,2013-06-19,4,0,100000,2.20E+09,,2013-06-28,500000000,,,,,1700000000,,,
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southeast British Columbia,BC,2013-06-19,0,0,200,0,,2013-06-21,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Kasabonika Lake First Nation, Ontario",ON,2013-05-27,0,0,150,0,,2013-05-31,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Cumberland House, SK",SK,2013-04-29,0,0,3000,2.00E+07,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Vita, Manitoba",MB,2012-10-02,,,200,0,,2012-10-03,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Lethbridge and Coalhurst, Alberta",AB,2012-09-01,0,0,2500,0,,2012-09-11,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Peachland, British Columbia",BC,2012-09-09,0,0,1550,0,,2012-09-12,0,0,,,,,,,
+Disaster,Natural,Biological,Epidemic,Quebec City,QC,2012-07-31,13,180,0,0,,2012-10-10,0,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Sandy Lake First Nation, Ontario",ON,2012-07-31,0,0,637,0,,2012-08-06,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Island Lake and Garden Hill, Manitoba",MB,2012-07-23,0,0,1428,0,,2012-08-01,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Mackenzie County, Alberta",AB,2012-07-11,0,0,300,,,2012-07-20,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Northwest River and Sheshatshiu, Newfoundland and Labrador",NL,2012-06-24,0,0,1100,0,,2012-06-25,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Sheshatshiu, Newfoundland Labrador",NL,2012-06-23,,,1100,,,2012-06-25,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Sicamous, BC",BC,2012-06-23,,,350,0,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Upper Liard, Yukon, Nahanni Butte, Northwest Territories, and Lower Post British Columbia",BC YT NT,2012-06-06,0,0,137,0,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Thunder Bay,,2012-05-28,0,0,0,0,,2012-05-28,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Timmins, Ontario",ON,2012-05-24,0,0,1000,0,,2012-06-07,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Kirkland Lake,,2012-05-20,0,0,300,0,,2012-05-29,0,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Kashechewan and Fort Albany, Ontario",ON,2012-03-24,0,0,269,6700000,,2012-04-01,,,,,6700000,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Fort Albany and Kashechewan First Nations, Ontario",ON,2012-03-24,,,250,,,2012-03-25,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Perth-Andover, NB",NB,2012-03-19,,,500,,,2012-03-25,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,"Quebec, Newfoundland and Labrador, New Brunswick, Nova Scotia and Prince Edward Island",QC NB NS PE NL,2011-08-28,2,,300,137800000,109642368.6,2011-08-30,,,,,,137800000,,1169000,
+Disaster,Natural,Meteorological - Hydrological,Tornado,Goderich ON,ON,2011-08-21,,,,,,2011-08-22,,,,,,,,8000,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Eckville, Lacombe, Paddle River, Fort Vermilion, and Peace River AB",AB,2011-07-12,0,0,156,,,2011-07-14,,,,,,,,700,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Ontario,ON,2011-07-06,0,0,3292,,,2011-07-25,,,,,,,,1896,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Mishkeegogamang Ojibway First Nation (New Osnaburgh), Northern ON",ON,2011-06-21,,,423,,,2011-06-27,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Weyburn and Estavan SK,SK,2011-06-17,0,0,383,,,2011-06-28,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Hall Lake SK,SK,2011-06-12,0,0,440,,,2011-06-14,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Dauphin Lake, Souris River, Assiniboine River, Pipestone Creek, Oak Lake, Plum Lakes, Plum Creek, and the Qu'Appelle River MB",MB,2011-06-02,0,0,3024,,,2011-07-09,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Wollaston Lake SK,SK,2011-06-02,0,0,1137,0,0,2011-06-09,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Calgary AB,AB,2011-05-29,0,0,141,,,2011-05-31,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Brandon MB,MB,2011-05-10,0,0,3623,,,2011-05-28,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Towns of Slave Lake, High Prairie, Little Buffalo, Lesser Slave Lake, Municipal Districts of Lesser Slave River, Red Earth Creek, and Loon Lake Whitefish Atikameg, and Woodland Cree First Nations AB",AB,2011-05-01,,,12055,7.00E+08,556964136.8,2011-05-22,,,,,,700000000,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint-Jean-sur-Richelieu (Richelieu River) QC,QC,2011-04-22,0,0,1619,,,2011-06-15,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Assiniboine, Roseau and Red Rivers MB",MB,2011-04-19,0,0,2543,3.50E+08,278482068.4,2011-06-17,350000000,,,,,,,,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Lambton County ON,ON,2010-12-13,1,1,237,,,2010-12-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,New Brunswick and Nova Scotia,NB NS,2010-12-13,0,0,0,5.00E+06,4094420.6,2010-12-13,5000000,,,,,,,80000,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Gaspé and Bonaventure QC,QC,2010-12-05,0,0,125,,,2010-12-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Yarmouth County NS,NS,2010-11-08,0,0,100,,,2010-11-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Yarmouth and Halifax NS,NS,2010-11-07,,,390,,,2010-11-14,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Kingcome Inlet and Bella Coola BC,BC,2010-09-24,,,175,,,2010-09-25,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Newfoundland and Labrador,NL,2010-09-21,1,0,300,5.10E+07,41763090.1,2010-09-21,51000000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Liverpool NS,NS,2010-09-04,,,,,,2010-09-04,,,,,,,,200000,
+Disaster,Natural,Meteorological - Hydrological,Flood,Meat Cove NS,NS,2010-08-22,0,0,130,,,2010-08-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Williams Lake, Chilcotin, Houston, Burns Lake and Fraser Lake BC",BC,2010-07-28,2,0,,2.20E+08,180154506.4,2010-09-08,,,220000000,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,North Battleford SK,SK,2010-07-22,0,0,45,,,2010-07-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,"Calgary, Alberta",AB,2010-07-12,0,0,0,4.00E+08,327553648.1,2010-07-12,,,,,,400000000,,,
+Disaster,Natural,Meteorological - Hydrological,Tornado,Kawacatoose First Nation SK,SK,2010-07-02,0,0,,358000,293160.5,2010-07-02,,,,,358000,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Midland ON,ON,2010-06-23,0,12,0,1.60E+07,13102145.9,2010-06-23,,,1000000,,,15000000,,0,0
+Disaster,Natural,Geological,Earthquake,Val-des-Bois and Gracefield QC,QC,2010-06-23,0,0,0,,,2010-06-23,,,,,,,,900,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta and Saskatchewan,AB SK,2010-06-17,0,0,2065,956350000,783139828.3,2010-06-17,,,206350000,,750000000,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,13km East of Cranberry Portage MB,MB,2010-06-15,0,0,400,,,2010-06-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Leamington ON,ON,2010-06-06,0,0,0,1.00E+05,81888.4,2010-06-06,,,100000,,,,,13500,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,2010-05-29,0,0,619,2200000,1801545.1,2010-05-29,490000,,1710000,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Chapleau ON,ON,2010-05-27,0,0,0,,,2010-05-27,,,,,,,,2000,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Wemotaci reserve and La Tuque QC,QC,2010-05-23,0,0,1300,,,2010-05-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,County of Thorhild AB,AB,2010-05-12,0,0,300,1.00E+07,8188841.2,2010-05-12,,,10000000,,,,,0,0
+Disaster,Natural,Biological,Epidemic,"Glengarry Hospital, Victoria BC",BC,2010-04-06,10,21,0,,,2010-04-06,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Baie-Verte and Port Elgin NB,NB,2010-01-02,0,0,0,627673,513991.5,2010-01-03,0,0,337716,145954,,144003,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Duncan and North Cowichan (Vancouver Island) BC,BC,2009-11-14,,,1050,,,2009-11-19,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Nova Scotia and New Brunswick,NB NS,2009-10-26,0,0,0,,,2009-10-26,,,,,,,,24000,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Halifax NS,NS,2009-08-23,0,0,0,,,2009-08-23,,,,,,,,40000,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,"Toronto, Windsor, Vaughan and Newmarket ON",ON,2009-08-20,1,0,0,,,2009-08-20,,,,,,,,207000,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Winnipeg to Steinbach MB,MB,2009-08-14,0,0,0,5.00E+07,41695804.2,2009-08-14,,,,,,50000000,,12000,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Déléage to Mont-Laurier,,2009-08-04,0,0,0,6.00E+06,5003496.5,2009-08-04,,,,,,6000000,,12000,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,South-East Alberta,AB,2009-08-02,0,0,0,,,2009-08-02,,,,,,,,9999,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Vancouver and Fraser BC,BC,2009-07-27,134,,,,,2009-08-03,,,,,,,,,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Hamilton and Toronto ON,ON,2009-07-26,0,0,0,,,2009-07-26,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton area AB,AB,2009-07-18,0,0,0,4500000,3752622.4,2009-07-18,400000,4100000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Kelowna, Kamloops and Cariboo BC",BC,2009-07-18,1,0,20000,7.50E+07,62543706.3,2009-07-18,58000000,1.70E+07,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Notre-Dame-des-Prairies,,2009-06-28,0,0,0,,,2009-07-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,"Montreal, Alma, La Tuque and Baie-Saint-Paul QC",QC,2009-05-14,0,0,0,,,2009-05-14,,,,,,,,70000,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Rock Creek and Henderson Corner in the Klondike Valley YT,YT,2009-05-01,0,0,28,1400000,1167482.5,2009-05-01,1000000,4.00E+05,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Ottawa, Toronto and Windsor ON",ON,2009-04-25,0,0,0,,,2009-04-25,,,,,,,,300000,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Saint John, Miramichi and Restigouche rivers NB",NB,2009-04-05,0,0,0,2.00E+06,1667832.2,2009-05-04,626000,1374000,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Across Canada,Across Canada,2009-04-01,425,8582,0,,,2010-02-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Roseau River First Nation, Sioux Falls, Peguis First Nation, St. Andrews, St. Clements and Selkirk MB",MB,2009-03-24,0,0,3000,4.00E+07,33356643.4,2009-05-21,33500000,6500000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Saskatchewan and Alberta,AB SK,2009-03-01,0,0,0,,,2009-03-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Vancouver, Fraser Valley and the Greater Vancouver Regional Districts BC",BC,2009-01-06,0,0,0,16500000,13759615.4,2009-01-08,6900000,9600000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Greater Vancouver and Fraser Valley BC,BC,2009-01-06,0,0,0,6900000,5754021,2009-01-08,6900000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prince Edward Island,PE,2008-12-13,,,,,,2008-12-13,,,,,,,,127283,
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Maritimes provinces,Maritimes,2008-09-29,0,0,0,,,2008-09-29,,,,,,,,37000,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Yarmouth County NS,NS,2008-09-28,,,,,,2008-09-28,,,,,,,,40000,
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Kingston ON,ON,2008-09-15,0,0,0,,,2008-09-15,,,,,,,,,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Saint John NB,NB,2008-09-07,0,0,0,620000,518387.4,2008-09-07,620000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Queens County PE,PE,2008-09-06,0,0,0,1800000,1504995.6,2008-09-07,1800000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Colchester, Pictou, Antigonish, Inverness, Victoria, Cumberland and Halifax NS",NS,2008-08-29,0,0,0,580000,484943,2008-08-31,580000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Eastern Quebec and Northwest New Brunswick,QC NB,2008-08-02,2,0,0,225000,188124.5,2008-08-02,225000,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Across Canada,Across Canada,2008-08-01,22,57,0,,,0/08/2008  ,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"West of Gander, East to Hare Bay, South to Swift Current NL",NL,2008-07-30,0,0,0,710000,593637.2,2008-07-30,710000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Regina SK,SK,2008-07-22,0,0,0,,,2008-07-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,La Tuque QC,QC,2008-07-22,0,0,115,,,2008-07-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Winnipeg MB,MB,2008-07-11,0,0,0,,,2008-07-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Deschambault Lake SK,SK,2008-07-01,0,0,800,,,2008-07-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Lethbridge AB,AB,2008-07-01,0,0,0,,,2008-07-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Saskatchewan,SK,2008-06-30,0,0,2800,,,2008-06-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Lanaudière QC,QC,2008-06-29,0,0,0,,,2008-06-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Halifax NS,NS,2008-06-13,0,0,5000,,,2008-06-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Montérégie and Eastern Townships QC,QC,2008-06-10,0,0,0,,,2008-06-10,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Pukatawagan MB,MB,2008-06-10,0,0,0,,,2008-06-10,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Pangnirtung NU,NU,2008-06-08,0,0,0,4900000,4096932.5,2008-06-09,4900000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Huntingdon QC,QC,2008-05-31,0,0,0,,,2008-05-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River NB,NB,2008-05-30,0,0,1000,2.10E+07,17558282.2,2008-05-30,21000000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Norway House and Sherridon MB,MB,2008-05-28,0,0,3330,,,2008-05-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,High River AB,AB,2008-05-24,0,0,0,,,2008-05-24,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southwest Alberta,AB,2008-05-21,0,0,0,9400000,7859421.6,2008-05-25,3100000,6300000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Newbrook AB,AB,2008-05-16,0,0,150,,,2008-05-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,"South-Central area of Manitoba (Cartier, Grey, Macdonald, Dufferin, Morris, Montcalm)",MB,2008-05-16,0,0,0,450000,376248.9,2008-05-16,450000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,James Bay ON,ON,2008-05-09,0,0,1200,,,2008-05-09,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Hay River NT,NT,2008-05-05,0,0,0,460000,384610,2008-05-06,460000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec City QC,QC,2008-04-29,0,0,335,,,2008-04-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Albany River ON,ON,2008-04-25,0,0,1900,,,2008-04-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Trent Hills ON,ON,2008-04-17,0,0,0,,,2008-04-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Belleville ON,ON,2008-04-14,0,0,0,,,2008-04-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Paddockwood SK,SK,2008-04-14,0,0,0,,,2008-04-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,New Brunswick,NB,2008-03-21,0,0,0,,,2008-03-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Port Bruce ON,ON,2008-02-18,0,0,300,,,2008-02-18,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Saint John NB,NB,2008-02-14,0,0,0,,,2008-02-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prince Edward Island,PE,2008-01-28,0,0,0,,,2008-01-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Quebec,QC,00/01/2008  ,0,0,0,,,2008-01-09,,,,,,,,249000,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Matane QC,QC,2007-12-17,0,0,275,,,2007-12-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Prince George BC,BC,2007-12-10,0,0,20,7500000,6422800.7,2007-12-10,1600000,5900000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Maritimes provinces,Maritimes,2007-12-04,0,0,0,,,2007-12-04,,,,,,,,50000,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Vancouver BC,BC,2007-11-12,0,0,0,,,2007-11-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,New Brunswick and Nova Scotia,NB NS,2007-11-04,0,0,0,,,2007-11-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Halifax and Lunenburg NS,NS,2007-11-03,0,0,0,2772553.51,2374341.2,2007-11-03,780000,1925958.41,,48319.81,,,18275.29,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Gaspé QC,QC,2007-08-15,0,0,200,11600000,9933931.8,2007-08-15,11600000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Natuashish NL,NL,2007-08-03,0,0,600,,,2007-08-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Newfoundland,NL,2007-08-02,0,0,0,,,2007-08-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Peninsulas of Avalon, Burin and Bonavista NL",NL,2007-08-01,0,0,0,19400000,16613644.5,2007-08-01,19400000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Kootenay BC,BC,2007-08-01,0,0,9,,,2007-08-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,South Indian Lake MB,MB,2007-07-20,0,0,437,,,2007-07-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Elie MB,MB,2007-06-22,0,0,0,,,2007-06-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Municipalities of Pipestone, Sifton, Cameron, White water, Morton, Riverside, Turtle Mountain, Strathcona and Argyle and the Whiteshell Provincial Park MB",MB,2007-06-22,0,0,0,650000,556642.7,2007-06-22,650000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Happy Valley - Goose Bay NL,NL,2007-06-17,0,0,600,,,2007-06-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Terrace, Smithers & Mount Currie BC",BC,2007-06-05,0,0,375,9600000,8221184.9,2007-06-05,9600000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Calgary, Edmonton, St. Albert, the town of Stony Plain, Parkland County, Two Hills County, Kneehill County, Camrose, and the municipal districts of Rocky View and Bighorn AB",AB,2007-06-05,0,0,0,1.80E+07,15414721.7,2007-06-05,9100000,8900000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Sept-Îles QC,QC,2007-05-27,0,0,1500,,,2007-05-27,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Fishing Lake SK,SK,2007-05-25,0,0,0,,,2007-05-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northwest Ontario,ON,2007-05-13,0,0,300,,,2007-05-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Fishing Lake SK,SK,2007-04-28,0,0,0,,,2007-04-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Gatineau QC,QC,2007-04-23,0,0,0,,,2007-04-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red Earth First Nation SK,SK,2007-04-19,0,0,700,125800000,107731777.4,2007-04-19,125800000,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Daniels Harbour NL,NL,2007-04-15,0,0,0,5300000,4538779.2,2007-04-15,5300000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Selkirk MB,MB,2007-04-03,0,0,120,,,2007-04-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Maple Ridge BC,BC,2007-03-12,0,0,0,,,2007-03-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Vancouver Island BC,BC,2006-12-20,0,0,0,,,2006-12-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Vancouver BC,BC,2006-12-11,0,0,0,,,2006-12-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Russell ON,ON,2006-12-01,0,0,0,,,2006-12-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Ontario and Quebec,ON QC,2006-10-29,0,0,0,,,2006-10-29,,,,,,,,240000,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint-Joseph et Vallée QC,QC,2006-10-28,0,0,240,,,2006-10-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Sainte-Anne-des-Plaines QC,QC,2006-08-19,0,0,600,,,2006-08-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Cariboo-Chilcotin BC,BC,2006-07-06,0,0,871,,,2006-07-06,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Nordegg AB,AB,2006-07-04,0,0,150,,,2006-07-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Tumbler Ridge BC,BC,2006-07-03,0,0,4000,,,2006-07-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Mistissini QC,QC,2006-06-16,0,0,3000,,,2006-06-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Aklavik NT,NT,2006-05-27,0,0,300,3500000,3060495,2006-05-27,3500000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Slocan River BC,BC,2006-05-20,0,0,159,,,2006-05-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Kashechewan ON,ON,2006-04-23,0,0,1100,,,2006-04-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Baie Verte Peninsula NL,NL,2006-04-17,0,0,0,3400000,2973052.2,2006-04-17,3400000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red Earth SK,SK,2006-04-13,0,0,1100,19100000,16701558.2,2006-04-13,19100000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Delta BC,BC,2006-02-04,0,0,0,,,2006-02-04,,,,,,,,0,0
+Disaster,Natural,Biological,Infestation,Kashechewan ON,ON,2005-10-26,,,1100,,,2005-10-26,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Stephenville NL,NL,2005-09-27,,,200,24500000,21843925.2,2005-09-27,24500000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Lorette River, Quebec City QC",QC,2005-09-26,0,0,700,,,2005-09-26,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Toronto ON,ON,2005-09-24,23,112,,,,2005-09-24,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec,QC,2005-08-31,,,,8300000,7400186.9,2005-08-31,8300000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Kelowna BC,BC,2005-08-28,0,0,530,,,2005-08-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Southern Ontario,ON,2005-08-19,0,4,0,5.00E+08,445794392.5,2005-08-19,,,,,,500000000,,,2
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Meadow Lake to the South and Stony Rapids to the North, and between the Alberta border to the West and the Manitoba border to the East.",AB MB,2005-07-23,0,0,0,3200000,2853084.1,2005-07-25,1100000,2100000,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Cumberland House, Cumberland House Cree First Nation SK",SK,2005-06-23,0,,1000,11500000,10253271,2005-06-23,11500000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"High River, City of Calgary, City of Red Deer, Red Deer County, Drumheller, Black Diamond, Pincher Creek, Fort Macleod, Okotoks, Turner Valley, Sundre, Mountainview County, District of Foothills, Clearwater County, Siksika First Nation, Tsuu T'ina First Nation AB",AB,2005-06-08,2,,7028,142100000,126694766.4,2005-06-08,142100000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Chibougamau, James Bay QC",QC,2005-06-05,0,,967,,,2005-06-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Regional municipalities of Daly, Sifton, Blanshard, Brandon, Strathclair and Woodworth, Oak Lake, Rivers and Dominion City, Melita, Elphinstone, Rural Municipality of Franklin and the town of Deloraine and The Pas MB",MB,2005-06-02,0,,1300,40500000,36109345.8,2005-06-02,40500000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Chisasibi QC,QC,2005-05-29,0,0,600,,,2005-05-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Bridgewater NS,NS,2005-05-25,0,0,100,1447904,1290935,2005-05-25,510004,937900,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Fort Good Hope NT,NT,2005-05-11,0,,50,920000,820261.7,2005-05-14,920000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Fredericton, Jemseg, Sheffield, Maugerville NB",NB,2005-05-01,0,,160,2278201,2031218.5,2005-05-01,768644,1509557,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Kashechewan ON,ON,2005-04-23,0,,200,,,2005-04-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Newfoundland,NL,2005-03-30,0,,0,430000,383383.2,2005-03-31,430000,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,North Vancouver BC,BC,2005-01-19,1,1,300,4200000,3744672.9,2005-01-19,4200000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Kings County PE,PE,2004-12-27,0,,0,,,2004-12-27,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Edmundston NB,NB,2004-08-13,1,,0,180000,164011.5,2004-08-14,180000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,The Pas MB,MB,2004-07-21,,,,,,2004-07-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,2004-07-11,0,0,30000,13500000,12300859.6,2004-07-11,13500000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Grande Prairie AB,AB,2004-07-08,0,0,0,,,2004-07-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Attawapiskat ON,ON,2004-05-19,,,1700,5700000,5193696.3,2004-05-19,5700000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,South-Central Manitoba,MB,2004-03-24,,,1000,2302473,2097955.3,2004-03-26,565937,1736536,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Nova Scotia,NS,2004-02-18,0,0,,5600000,5102578.8,2004-02-20,5600000,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Khyex River BC,BC,2003-11-28,0,0,0,,,2003-11-28,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Vancouver Island and South-western British Columbia,BC,2003-10-16,2,,750,4851046,4501846.2,2003-10-23,4851046,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Halifax NS and Charlottetown PE,NS PE,2003-09-29,8,,,30900000,28675680.9,2003-09-29,30900000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"The Bois-Francs, Chaudière-Appalaches, Beauce, l'Outaouais, Lanaudière, and Abitibi-Témiscamingue regions QC",QC,2003-08-04,0,0,60,,,2003-08-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Norman Wells NT,NT,2003-07-21,0,,100,121846,113075,2003-07-21,39640,82206,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Southeastern British Columbia and Southwestern Alberta,BC AB,2003-07-01,,,48501,141566277,131375708.4,2003-08-31,141566277,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Eastern Passage, Cole Harbour NS",NS,2003-05-19,,,500,,,2003-05-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Manitoba,MB,2003-04-01,0,,665,,,2003-10-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Prince Edward Island,PE,2003-03-31,0,0,0,2381905,2210444.9,2003-03-31,1869114,512791,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Oxford and Truro NS,NS,2003-03-31,2,3,270,25485948,23651356.4,2003-03-31,21065353,4420595,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prince Edward Island,PE,2003-03-31,0,,,,,2003-03-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,West Coast of Newfoundland,NL,2003-03-31,0,,,,,2003-03-31,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,"Across Canada, largely in the Greater Toronto area",Across Canada,2003-03-13,44,375,0,,,2003-08-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Badger NL,NL,2003-02-15,,,1100,6380000,5920739.3,2003-02-15,6380000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Wolfe Lake and Moncton NB,NB,2003-02-02,,,,,,2003-02-02,,,,,,,,189000,
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Western Canada,Western Canada,2003-01-21,30,,2,,,2003-01-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Near community of Sheshatshui and town of North West River NL,NL,2002-07-03,0,0,912,464286,442928.8,2002-07-03,,,464286,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Nemiscau region, near James Bay QC",QC,2002-07-02,0,0,628,,,2002-07-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Kee-Way-Win FN; Townships of Terrace Bay and Schrieber; Village of Rossport; Pays Plat FN; Deer Lake FN, ON",ON,2002-07-01,0,0,985,,,2002-07-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Hawes/Patuanak SK,SK,2002-06-28,0,0,103,,,2002-06-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Crutwell, Dillon, Hatchett Lake, Pelican Narrows, Deschambeault, Wahpeton First Nation, Nordell, Peter Pond SK",SK,2002-06-28,0,0,480,,,2002-07-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Turnor Lake SK,SK,2002-06-24,0,0,425,31014,29587.4,2002-06-24,,,31014,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Peerless Lake, Trout Lake AB",AB,2002-06-23,0,0,600,,,2002-06-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,AB,2002-06-11,0,0,350,16054182,15315689.6,2002-06-11,8834091,7220091,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southeast MB,MB,2002-06-11,0,0,150,10376248,9898940.6,2002-06-11,3552493,2954305,2094671,1766793,,,7986,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Municipalities of Ignace, Fort Frances, Rainy River, Alberton, Atikokan, Chapple, Dawson, Emo, La Valle, Lake of the Woods, Morley, Machin; Township of Sioux-Narrows - Nestor Falls, ON",ON,2002-06-09,0,0,0,6975854,6654964.7,2002-06-09,,,6975854,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Montreal Lake SK,SK,2002-05-20,0,0,129,32332,30844.7,2002-05-22,,,19779,,,,12553,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,British Columbia,BC,2002-05-20,,,,,,2002-05-20,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Alberta and Conklin,AB,2002-05-17,0,0,1254,1300000,1240200,2002-06-07,,,1300000,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Attawapiskat First Nation ON,ON,2002-05-01,0,0,1200,,,2002-05-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Southern coast of Newfoundland,NL,2001-09-19,0,0,0,11743003,11454831.1,2001-09-19,4353450,1668893,,,,5720660,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Morley, Chapple, Dawson, Emo, Lake of the Woods, La Vallee, Rainy River, Fort Frances ON",ON,2001-07-31,0,0,0,869596,848256.2,2001-07-31,,,869596,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northeast and Central British Columbia,BC,2001-07-01,0,0,,9323887,9095080,2001-07-01,2622744,6701143,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River area BC,BC,2001-06-01,,,,20942391,20428467.3,2001-06-01,10691352,10251039,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,"Across Canada, concentrated in Saskatchewan and Alberta",Across Canada,2001-06-01,0,0,0,,,2002-10-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Manitoba,MB,2001-04-01,,,,16710626,16300549.3,2001-04-01,7045162,3107992,768943,5788529,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Quebec,QC,2001-02-10,6,11,30,,,2001-02-10,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sydney NS,NS,2000-11-02,0,1,800,5628428,5628428,2000-11-11,449803,1389625,1939000,1850000,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Eastern and Northern Coastline of New Brunswick,NB,2000-10-29,0,0,0,,,2000-10-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Pine Lake AB,AB,2000-07-14,12,140,1000,3385331,3385331,2000-07-14,190216,3195115,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Manitoba,MB,2000-07-07,0,0,0,2917561,2917561,2000-07-14,885581,2031980,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Vanguard SK,SK,2000-07-03,0,0,36,3787294,3787294,2000-07-03,1580762,2206532,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Walkerton ON,ON,2000-05-19,6,2300,0,,,2000-07-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Ontario,ON,2000-04-20,0,1,0,,,2000-04-21,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Passmore BC,BC,2000-04-13,0,0,0,,,2000-04-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Maritime provinces,Maritimes,2000-01-21,0,0,0,,,2000-01-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Maritimes provinces,Maritimes,2000-01-17,0,0,216,6621462,6621462,2000-01-22,3059340,2773532,301806,486784,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Glacier National Park BC,BC,1999-12-07,1,4,0,,,1999-12-07,0,0,,,,,,0,0
+Disaster,Natural,Biological,Infestation,Little Saskatchewan First Nation Reserve MB,MB,1999-10-01,0,0,170,,,1999-10-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Vancouver BC,BC,1999-09-24,0,0,0,,,1999-09-24,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Maritimes provinces,Maritimes,1999-09-23,0,0,90,4912305,5049934.2,1999-09-23,1834365,3077940,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Prince Edward Island,PE,1999-09-07,0,0,0,1441367,1481750.1,1999-09-07,1022030,419337,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Balmoral and Val d'Amour areas in Restigouche County NB,NB,1999-09-07,,,,1726766,1775145.2,1999-09-07,485625,1241141,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Drummondville QC,QC,1999-07-06,1,4,200,43595000,44816411.6,1999-07-06,,,,,,43595000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Clearwater AB,AB,1999-07-04,0,0,350,8751452,8996643.5,1999-07-05,2977089,5774363,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Badger NL,NL,1999-06-28,0,0,1000,,,1999-07-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Saskatchewan,SK,1999-06-21,0,0,4,,,1999-06-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Kenora ON,ON,1999-06-18,0,0,12,,,1999-06-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,British Columbia,BC,1999-06-16,0,0,118,,,1999-06-25,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Burwash Landing YT,YT,1999-06-12,0,0,80,922323,948163.9,1999-06-22,317481,104842,,5.00E+05,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,White Rock BC,BC,1999-06-08,0,0,30,,,1999-06-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Beardmore ON,ON,1999-05-04,0,0,307,,,1999-05-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Cross Lake, Seymourville MB",MB,1999-04-29,0,0,1050,,,1999-05-12,,0,0,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Melita MB,MB,1999-04-01,0,0,0,109195449,112254804.3,1999-04-01,7292493,3327956,97575000,1.00E+06,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southeastern Saskatchewan,SK,1999-04-01,0,0,0,1717172,1765282.4,1999-06-30,345839,1371333,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,La Ronge SK,SK,1999-04-01,0,0,40,,,1999-05-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,East of Lake Winnipeg MB,MB,1999-03-05,,,1107,,,1999-03-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,British Columbia,BC,1999-03-01,,,,22426695,23055029.1,1999-07-30,12206998,10219697,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Southern BC,BC,1999-02-21,3,0,0,,,1999-02-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Barrie ON,ON,1999-02-13,0,30,0,,,1999-02-13,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Terrace BC,BC,1999-02-11,0,0,0,,,1999-02-11,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Southern British Columbia,BC,1999-01-29,0,1,0,,,1999-01-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Toronto ON,ON,1999-01-13,2,0,0,1.22E+08,125418103.4,1999-01-15,,,,7.20E+07,,50000000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Ontario,ON,1999-01-03,11,7,0,,,1999-01-03,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Kangiqsualujjuaq QC,QC,1999-01-01,9,25,,6400400,6579721.6,1999-01-01,6400000,,,,,,400,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,"Greater Vancouver Area, Southern BC",BC,1998-12-24,2,2,10,,,1998-12-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,"Greater Vancouver Area, Southern BC",BC,1998-11-23,0,0,0,14025688,14655538.2,1998-11-25,,,,,,14025688,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Salmon Arm BC,BC,1998-08-10,0,0,7000,3036145,3172488.9,1998-08-17,,,,3036145,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,British Columbia,BC,1998-08-01,0,0,10600,2795,2920.5,1998-08-01,,,,,,,2795,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Tibbet Lake NT,NT,1998-07-22,0,0,5,12044118,12584982,1998-07-31,,,12044118,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Ontario,ON,1998-07-04,0,0,1865,,,1998-07-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1998-07-04,0,0,0,65258000,68188534.5,1998-07-05,,,,,,65258000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Swan Hills AB,AB,1998-05-05,0,0,2030,,,1998-05-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Eastern Ontario and Quebec,ON QC,1998-03-28,0,0,3757,27741685,28987478.1,1998-04-15,7246824,14570459,5924402,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River NB,NB,1998-03-09,0,0,0,5636784,5889914.5,1998-03-10,3550846,2085938,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,45 miles southwest of the islands of Saint-Pierre-et-Miquelon,,1998-01-16,21,0,0,5109358,5338803.4,1998-01-16,0,0,5109358,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Ontario to New Brunswick,ON QC NB,1998-01-06,28,945,17800,4635720433,4843896268,1998-01-10,665387416,42560837,17661738,2018484288,166306876,1712248000,13071278,4828750,0
+Disaster,Natural,Biological,Epidemic,Wood Buffalo National Park AB,AB,1998-01-01,0,0,0,974055,1017796.8,1998-01-01,,,974055,,,,,0,0
+Disaster,Natural,Geological,Landslide,Hummingbird Creek BC,BC,1997-07-11,0,,,,,1997-07-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake area AB,AB,1997-06-17,0,0,0,664352,701097.1,1997-06-20,,,664352,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Iroquois Falls, Kirkland Lake, Timmins areas ON",ON,1997-06-12,0,0,823,,,1997-06-12,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northwest of Matagami QC,QC,1997-06-10,0,0,1100,,,1997-06-12,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Timmins ON,ON,1997-05-29,0,0,400,,,1997-05-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern British Columbia,BC,1997-05-01,0,0,0,40114688,42333420.7,1997-05-01,15472238,10407813,,14234637,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Assiniboine, Red and Winnipeg Rivers MB",MB,1997-04-22,0,0,25447,498513577,526086230.6,1997-05-14,193808836,23624696,,48480045,,232600000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,AB,1997-04-19,0,0,4000,47368494,49988432.8,1997-04-23,18664180,8343702,20360612,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,South-Central Saskatchewan,SK,1997-03-30,0,0,516,1319475,1392454.8,1997-04-03,,,1319475,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern British Columbia,BC,1997-03-18,0,0,0,4585262,4838871.6,1997-03-24,653232,3932030,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Durham ON,ON,1997-01-09,0,0,200,,,1997-01-09,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Bay of Fundy NB,NB,1997-01-01,0,0,0,25881403,27312896.5,1997-01-01,21771004,4110399,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southwestern British Columbia,BC,1996-12-29,0,0,0,215339641,231084384.2,1996-12-29,1583282,5440089,3821888,204494382,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Nechako River BC,BC,1996-11-29,0,0,0,,,1996-11-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Montreal and Mauricie Region QC,QC,1996-11-08,0,0,1000,93089380,99895690.1,1996-11-09,3435141,10709159,,,,78945080,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Ottawa ON,ON,1996-08-08,0,0,0,21308000,22865952.8,1996-08-08,0,0,,,,21308000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1996-07-24,0,0,0,87877643,94302892.5,1996-07-25,0,0,,,,87877643,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saguenay River Valley QC,QC,1996-07-19,10,0,15825,3.00E+08,321934758.2,1996-07-19,300000000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1996-07-16,0,0,0,1.03E+08,110530933.6,1996-07-18,,,,,,103000000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Winnipeg MB,MB,1996-07-16,0,0,0,1.05E+08,112677165.4,1996-07-16,0,0,,,,105000000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Atikokan ON,ON,1996-07-05,0,0,0,278061,298391.7,1996-07-06,,,194537,83524,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake area AB,AB,1996-06-17,0,0,922,18159797,19487566.2,1996-06-21,5693853,5466769,6999175,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Timmins and Dufferin County ON,ON,1996-05-17,0,0,0,378557,406235.5,1996-05-19,,,131518,247039,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,"Grey County, Wellington and Dufferin County ON",ON,1996-04-20,0,9,0,9404772,10092410,1996-04-20,,,621641,439291,,8343840,,2895455,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Red River, Souris River, Assiniboine River and Pembina River MB",MB,1996-04-18,0,0,285,6816377,7314762.3,1996-05-08,4430930,2385447,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Flat Bay NL,NL,1996-02-17,0,0,30,,,1996-02-19,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sunny Valley AB,AB,1996-01-01,0,0,0,100307,107641,1996-01-01,,,100307,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Grande Prairie AB,AB,1996-01-01,0,0,0,57644492,61859218.6,1996-01-01,,,100110,,57544382,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,South Dumfries ON,ON,1996-01-01,0,0,0,99870,107172.1,1996-01-01,,,22413,77457,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Ontario,ON,1995-12-10,1,0,50,,,1995-12-11,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern British Columbia,BC,1995-11-27,0,0,230,18835222,20512330.8,1995-11-29,1915497,5722996,11196729,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Hamilton ON,ON,1995-10-05,0,0,0,17419000,18970006.8,1995-10-06,0,0,,,,17419000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Regina SK,SK,1995-09-26,0,0,0,13353120,14542096.4,1995-09-26,0,0,235120,,,13118000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Burin Peninsula NL,NL,1995-09-11,0,0,0,2661890,2898907.6,1995-09-11,1274866,1387024,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Manitoba,MB,1995-07-30,0,0,0,9018000,9820972.6,1995-07-30,0,0,,,,9018000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1995-07-17,0,0,0,74559612,81198481.6,1995-07-17,,,18858612,,,55701000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Ontario,ON,1995-07-13,0,0,0,56910000,61977328.8,1995-07-15,0,0,,,,56910000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Alberta,AB,1995-07-10,0,0,0,28103000,30605321.9,1995-07-10,0,0,,,,28103000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,1995-07-04,0,0,0,34511612,37584563.8,1995-07-04,,,18858612,,,15653000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Sahtu Region of the Northwest Territories,NT,1995-06-06,0,0,950,3432310,3737926.6,1995-06-15,504871,202377,2725062,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,AB,1995-06-06,0,0,0,154623306,168391134.6,1995-06-09,34061897,9324782,12672842,76670115,,21893670,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southeastern British Columbia,BC,1995-06-05,0,0,802,7155707,7792859,1995-06-09,1685853,5469854,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"East Kooteney (Elk River-Watershed) Region and the municipalities of Sparwood, Fernie and surrounding areas BC",BC,1995-06-01,0,0,0,7155707,7792859,1995-06-01,1685853,5469854,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,North Central Saskatchewan,SK,1995-05-29,0,0,3338,91585747,99740642.3,1995-05-29,,,91585747,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Western MB,MB,1995-04-01,0,0,100,4205645,4580120.2,1995-04-01,1816719,2388926,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northeastern Saskatchewan,SK,1995-04-01,0,0,0,7572381,8246634.1,1995-04-01,4784560,2787821,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Blanc Sablon QC,QC,1995-03-10,2,0,69,368160,400941.4,1995-03-10,,,368160,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Poplar Bay AB,AB,1995-01-01,0,0,0,35830,39020.3,1995-01-01,,,35830,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec,QC,1995-01-01,0,0,0,57478,62595.9,1995-01-01,,,57478,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Avalon area of Newfoundland and Labrador,NL,1994-12-08,0,0,0,,,1994-12-12,0,0,,,,,,3189873,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern ON,ON,1994-08-28,0,0,0,7876000,8767449.2,1994-08-28,0,0,,,,7876000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Manitoba,MB,1994-08-27,0,0,0,14196201,15803005.5,1994-08-27,,,5346201,,,8850000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Aylmer QC,QC,1994-08-04,0,4,1000,7786393,8667700,1994-08-04,,,246393,,,7540000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Salmon Arm BC,BC,1994-08-04,0,0,0,11155000,12417584.6,1994-08-04,0,0,,,,11155000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southwestern Manitoba,MB,1994-08-01,0,0,0,3189873,3550920.5,1994-08-01,,,,3189873,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,British Columbia,BC,1994-07-24,0,0,4169,,,1994-07-24,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Alberta,AB,1994-06-18,0,0,0,30969155,34474415.3,1994-06-18,,,21910155,,,9059000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Saskatchewan,SK,1994-05-22,0,0,0,9589470,10674859.3,1994-05-22,,,69470,,,9520000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Manitoba,MB,1994-05-18,0,0,0,9074000,10101045.5,1994-05-18,0,0,,,,9074000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Plaster Rock NB and Lower St. Lawrence Region QC,QC NB,1994-04-16,0,0,0,57025698,63480181.9,1994-04-26,1944488,31903387,1681761,21496062,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern ON,ON,1994-01-28,0,0,0,6799000,7568548.4,1994-01-28,0,0,,,,6799000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Alberta to Maritimes,Across Canada,1994-01-23,0,0,0,45995,51201,1994-02-06,,,45995,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern ON,ON,1994-01-16,0,0,0,14299000,15917439.9,1994-01-17,0,0,,,,14299000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Montreal and area QC,QC,1994-01-05,6,0,0,,,1994-01-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Quebec and Ontario,ON QC,1993-11-01,0,0,0,,,1994-03-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Tuktoyaktuk and Mackenzie Delta NT,NT,1993-09-23,0,0,0,,,1993-09-23,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan,SK,1993-07-29,0,0,0,6503703,7248285.8,1993-07-29,,,613703,,,5890000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec,QC,1993-07-29,0,0,0,10017238,11164071.3,1993-07-30,,,1675238,,,8342000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,1993-07-29,0,0,0,21095828,23511004.6,1993-07-29,,,12398407,,,8697421,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1993-07-25,0,0,0,214807255,239399674.4,1993-08-14,11555527,3763948,,,,199487780,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Swan River MB,MB,1993-07-04,0,0,650,5738341,6395300.6,1993-07-04,2935683,2802658,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Upper Saint John River Valley NB,NB,1993-04-12,0,0,300,14973222,16687446,1993-04-12,6500013,2349112,3808712,,2315385,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Eastern Canada,Eastern Canada,1993-03-15,33,0,0,19866000,22140378.5,1993-03-15,,,,,,19866000,,0,0
+Disaster,Natural,Biological,Epidemic,Prince Edward Island and New Brunswick,NB PE,1993-01-01,0,0,0,,,1993-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1993-01-01,0,0,0,,,1993-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Ontario and Quebec,ON QC,1992-11-12,0,0,0,,,1992-11-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Avalon and Burin Peninsulas and Bonavista, Trinity and Conception Bays NL",NL,1992-10-06,0,0,0,8945037,10159006.3,1992-10-06,,,,,,8945037,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,1992-09-01,0,0,0,22522000,25578557.1,1992-09-01,,,14434443,,,8087557,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,1992-08-28,0,0,0,20170168,22907547.9,1992-08-28,,,14434443,,,5735725,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Elmira ON,ON,1992-08-28,0,0,0,4738539,5381626.4,1992-08-28,0,0,,,,4738539,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Toronto ON,ON,1992-07-31,0,0,0,5337940,6062374.7,1992-07-31,0,0,,,,5337940,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1992-07-31,0,0,0,38495497,43719885.9,1992-07-31,,,14434443,,,24061054,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Yukon Rivers YT,YT,1992-06-17,0,0,0,228636,259665.2,1992-07-30,147321,81315,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Attawapiskat ON,ON,1992-05-18,0,0,1000,,,1992-05-18,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Hay River NT,NT,1992-04-25,0,0,100,,,1992-04-25,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Sainte-Brigitte-de-Laval, about 40 km north of Québec City QC",QC,1992-03-12,0,0,40,1012311,1149696.1,1992-03-12,,,1012311,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,AB,1992-02-28,0,0,3800,2866371,3255378.5,1992-03-04,,,2866371,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Maritimes provinces,Maritimes,1992-02-01,0,0,0,,,1992-02-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Prairies provinces and Ontario,Prairies,1992-01-01,0,0,0,2.00E+06,2271428.6,1992-01-01,,,2000000,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1992-01-01,0,0,0,580597523,659392901.1,1992-01-01,,,135289,,580462234,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lethbridge AB,AB,1992-01-01,0,0,0,219277,249036,1992-01-01,,,219277,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Central Ontario,ON,1991-11-30,0,0,0,5982309,6892660.4,1991-11-30,0,0,,,,5982309,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Maritimes provinces,Maritimes,1991-10-25,0,0,0,,,1991-11-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Vernon BC,BC,1991-10-16,0,0,0,4396737,5065805.7,1991-10-16,0,0,,,,4396737,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northwestern British Columbia,BC,1991-10-08,,,,,,1991-10-14,,,,,,,,4150761,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1991-09-07,0,0,0,884595372,1019207711,1991-09-07,,,9289467,496865521,,378440384,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern British Columbia,BC,1991-08-29,0,0,0,17300120,19932747,1991-09-01,1002312,3934593,12363215,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Maskinongé QC,QC,1991-08-27,0,15,0,52603727,60608642,1991-08-27,,,2206439,29751766,,20645522,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Southern New Brunswick,NB,1991-08-19,2,0,0,7021214,8089659.6,1991-08-19,,,,,7021214,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Red Deer AB,AB,1991-07-03,0,0,0,40387745,46533706.2,1991-07-03,,,9280084,,,31107661,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,"Betsiamites, Ragueneau et Baie-Comeau QC",QC,1991-06-29,0,0,4035,,,1991-06-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Old Crow YT,YT,1991-05-08,0,0,0,546692,629884.3,1991-05-09,518222,28470,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Chaudière River QC,QC,1991-04-07,0,0,1000,3682004,4242309,1991-04-08,,,3682004,,,,,0,0
+Disaster,Natural,Geological,Landslide,Notre-Dame de Pierreville QC,QC,1991-04-01,0,0,0,304756,351131.9,1991-04-01,,,304756,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Sarnia ON,ON,1991-03-27,0,0,0,28310657,32618800.5,1991-03-27,,0,0,,,28310657,,1560000,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Bugaboo Glacier Provincial Park BC,BC,1991-03-12,9,0,0,,,1991-03-12,,0,0,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1991-01-01,0,0,0,146557019,168859174.1,1991-01-01,,,115360,,146441659,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Madeleine Islands QC,QC,1990-12-16,8,2,0,397070,483169.4,1990-12-16,,,,,397070,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Newfoundland,NL,1990-12-09,0,0,0,2327777,2832524.6,1990-12-09,1029958,1297819,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern British Columbia,BC,1990-11-08,0,0,309,29426861,35807685.5,1990-11-13,7343629,7053719,15029513,,,,,412941,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Southern Ontario,ON,1990-08-29,0,6,0,792167,963937.9,1990-08-29,,,511000,281167,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Woodstock NB,NB,1990-08-01,0,0,0,1666667,2028061.6,1990-08-01,,,1666667,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Northumberland Strait (NS and PE),NS PE,1990-08-01,6,0,0,4427167,5387139.4,1990-08-01,,,,,4427167,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Old Crow YT,YT,1990-07-20,0,0,210,7925848,9644463,1990-07-20,,,7591444,334404,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1990-07-09,0,0,0,19295404,23479356.4,1990-07-09,,,3016404,,,16279000,,0,0
+Disaster,Natural,Geological,Landslide,Joe Rich and Southern British Columbia,BC,1990-06-12,7,0,0,18208847,22157193.9,1990-06-12,4355578,5654135,8199134,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Western Alberta,AB,1990-05-25,1,0,221,22147336,26949692,1990-07-04,8229503,6395393,7522440,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Banff AB,AB,1990-02-11,4,0,0,,,1990-02-11,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1990-01-01,0,0,0,581891545,708067007.6,1990-01-01,,,204155713,,377735832,,,0,0
+Disaster,Natural,Geological,Earthquake,Ungava Peninsula QC,QC,1989-12-25,0,0,0,,,1989-12-25,0,0,,,,,,0,6
+Disaster,Natural,Meteorological - Hydrological,Cold Event,British Columbia to Ontario,BC AB SK MB ON,1989-12-18,7,0,0,536488,684237.4,1990-01-17,,,536488,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Gulf of St. Lawrence QC,QC,1989-12-07,39,0,0,,,1989-12-07,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern British Columbia,BC,1989-11-08,0,0,28,3146918,4013582.6,1989-11-12,54716,3092202,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Nova Scotia,NS,1989-09-10,1,0,0,,,1989-09-10,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Grande Prairie AB,AB,1989-08-23,0,0,0,,,1989-10-18,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Radisson QC,QC,1989-07-22,0,0,300,,,1989-07-22,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Harrow, Kent, Essex, Leamington counties ON",ON,1989-07-19,0,0,0,13807000,17609462.6,1989-07-20,0,0,,,,13807000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Montmartre SK,SK,1989-07-01,0,0,0,,,1989-07-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Manitoba,MB,1989-05-11,0,0,25000,18489862,23581989.8,1989-09-20,14174906,4314956,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Liard River NT,NT,1989-05-01,0,0,125,1094778,1396281,1989-05-09,852700,242078,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Geomagnetic Storm,Province of Quebec,QC,1989-03-13,,,,,,1989-03-13,,,,,,,,6925128,
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Yukon to Ontario,Across Canada,1989-01-30,13,100,0,,,1989-01-30,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1989-01-01,0,0,0,,,1989-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Albany and Attawapiskat River ON,ON,1989-01-01,0,0,1000,,,1989-01-01,0,0,,,,,,0,0
+Disaster,Natural,Geological,Earthquake,Saguenay region QC,QC,1988-11-25,0,0,0,37970666,50876426.1,1988-11-25,20891999,17078667,,,,,,0,6
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1988-08-16,0,0,0,39827872,53364873.4,1988-08-16,156086,2544786,,,,37127000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Ontario and Manitoba,MB ON,1988-07-05,14,0,0,,,1988-07-11,0,0,,,,,,128169014,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake region AB,AB,1988-07-05,0,0,2800,35296621,47293506.2,1988-07-08,7787911,6008710,,,,21500000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Norman Wells NT,NT,1988-06-29,0,0,0,,,1988-06-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central and Southern Alberta,AB,1988-06-28,0,0,0,,,1988-06-29,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,"Louiseville, Yamachiche and St.-Justin Region of Trois-Rivières QC",QC,1988-06-20,0,0,0,,,1988-06-20,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Lethbridge, Taber, Irma and Wainwright AB",AB,1988-06-04,0,0,0,,,1988-06-11,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Duck Mountain and Swan River MB,MB,1988-04-01,0,0,0,2323137,3112742.6,1988-04-01,619569,1703568,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Goulais River ON,ON,1988-01-01,0,0,0,,,1988-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northern British Columbia,BC,1988-01-01,0,0,0,,,1988-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Whitedog Lake ON,ON,1988-01-01,0,0,500,,,1988-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Edmonton AB,AB,1987-07-31,27,600,1700,181125959,252254255.3,1987-07-31,19948463,12800496,,,,148377000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Montreal QC,QC,1987-07-14,2,0,0,64216681,89434618.5,1987-07-14,6473041,13065640,,,,44678000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Winnipeg MB,MB,1987-07-06,0,0,0,,,1987-07-06,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Montreal QC,QC,1987-05-29,0,0,0,24891000,34665713.9,1987-05-29,0,0,,,,24891000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Valrita-Harty ON,ON,1987-05-13,0,0,800,,,1987-05-13,0,0,,,,,,,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lake St. Clair ON,ON,1987-04-04,0,0,50,,,1987-04-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Perth-Andover NB,NB,1987-04-02,0,0,300,7872284,10963735.7,1987-04-02,5660456,2211828,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southcentral Quebec,QC,1987-03-28,0,0,300,,,1987-04-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Blue River BC,BC,1987-03-23,7,0,0,,,1987-03-23,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Eastern Ontario and Southwestern Quebec,ON QC,1986-12-24,0,0,0,,,1986-12-24,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Winnipeg MB,MB,1986-11-07,2,0,0,,,1986-11-07,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,East Central British Columbia,BC,1986-08-01,0,0,0,,,1986-08-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan and Alberta,AB SK,1986-07-16,1,0,0,17889807,26016579.1,1986-07-24,9484477,8405330,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,North-central Alberta,AB,1986-07-13,0,0,0,12843964,18678569.6,1986-07-24,6809368,6034596,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Waswanipi reserve QC,QC,1986-06-02,0,0,500,,,1986-06-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Montreal QC,QC,1986-05-29,0,0,0,45473000,66129942.1,1986-05-29,0,0,,,,45473000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winisk ON,ON,1986-05-16,2,0,129,,,1986-05-16,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Grand Falls NL,NL,1986-05-15,0,0,1000,,,1986-05-16,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Upper Gagetown and Burton NB,NB,1986-05-15,0,0,1000,,,1986-05-16,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Alberta,AB,1986-05-14,0,0,0,,,1986-05-15,0,0,,,,,,18270270,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Icelandic River and Fisher River MB,MB,1986-04-01,0,0,148,2893389,4207763.9,1986-06-30,908395,1984994,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Saint John River, between Simonds and Woodstock NB",NB,1986-04-01,0,0,0,,,1986-04-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Riviere Chaudière QC,QC,1986-03-30,0,0,750,,,1986-04-01,0,0,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Brantford ON,ON,1986-01-01,0,0,0,,,1986-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1986-01-01,0,0,0,,,1986-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lake Huron and Lake Erie ON,ON,1985-12-02,0,0,0,,,1985-12-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northeast of Vancouver BC,BC,1985-07-01,0,0,0,,,1985-07-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Hopeville to Barrie ON,ON,1985-05-31,12,500,800,83992000,127187885.7,1985-05-31,0,0,,,,83992000,,3684211,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Windsor ON,ON,1985-05-30,5,0,0,16390000,24819142.9,1985-05-30,0,0,,,,16390000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Hay River Township, south shore of Great Slave Lake NT",NT,1985-05-03,0,1,,,,1985-05-03,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Western Canada,Western Canada,1985-05-01,0,0,0,,,1985-08-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lake Erie ON,ON,1985-03-31,0,0,0,,,1985-04-06,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Chatham ON,ON,1985-02-23,0,0,30,,,1985-03-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,West Coast of British Columbia,BC,1984-10-11,5,0,0,,,1984-10-12,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Alberta,AB,1984-10-06,0,0,0,,,1984-10-06,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Pemberton area BC,BC,1984-10-06,1,0,300,3999112,6295631.8,1984-10-08,637747,3361365,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,London ON,ON,1984-09-02,0,30,0,,,1984-09-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Eastern Ontario and Western Quebec,ON QC,1984-07-15,1,43,0,,,1984-07-15,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southern Manitoba,MB,1984-06-15,0,0,0,1656780,2608198.2,1984-07-31,301190,1355590,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1984-06-01,0,0,0,,,1984-08-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Chesley ON,ON,1984-04-30,0,0,0,39066000,61499940.6,1984-04-30,0,0,,,,39066000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,"South, Central and Western Manitoba",MB,1984-04-27,0,0,0,2686465,4229187.5,1984-04-28,816031,1870434,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1984-04-25,1,0,0,,,1984-05-06,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,St. John's NL,NL,1984-04-13,0,0,0,3272619,5151944.8,1984-04-15,1786357,1486262,,,,,,7615063,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1984-02-13,2,0,150,,,1984-02-17,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Truro NS,NS,1984-02-05,1,0,0,,,1984-02-08,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lower Fraser River Valley BC,BC,1984-01-04,0,0,0,4029790,6343926.8,1984-01-05,605407,3424383,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Quebec,QC,1984-01-01,0,0,0,,,1984-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northeast Saskatchewan,SK,1984-01-01,0,0,0,,,1984-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Grande Prairie and Drayton Valley AB,AB,1984-01-01,0,0,0,,,1984-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Avalon Peninsula NL,NL,1983-12-22,0,0,0,,,1983-12-25,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Gaspésie QC,QC,1983-12-07,0,0,0,53831341,88390876.6,1983-12-07,27739771,26091570,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,Cape Breton Island NS,NS,1983-10-25,0,0,0,,,1983-10-25,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Edmonton AB,AB,1983-08-03,0,0,0,22060000,36222444.1,1983-08-03,0,0,,,,22060000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Ontario,ON,1983-07-14,0,0,0,,,1983-08-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Regina SK,SK,1983-07-08,0,0,0,20614195,33848437.2,1983-07-09,1121298,3107897,,,,16385000,,0,0
+Disaster,Natural,Biological,Epidemic,Manitoba,MB,1983-07-01,0,0,0,4444275,7297484.3,1983-07-01,1384672,3059603,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Regina SK and Edmonton AB,AB SK,1983-06-24,0,0,0,,,1983-06-24,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"upper Richelieu River, Montréal QC",QC,1983-05-10,0,0,160,,,1983-05-10,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Reeces Corners ON,ON,1983-05-03,0,0,0,111591,183232,1983-05-03,0,0,111591,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"North shore of St. Lawrence River, and Yamachiche Maskinonge River basins QC",QC,1983-03-19,0,0,0,,,1983-03-20,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prairie provinces,Prairies,1983-03-06,0,0,0,,,1983-03-06,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Badger NL,NL,1983-02-28,,,,,,1983-03-10,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Central, southern, and western Newfoundland",NL,1983-01-11,0,0,500,6367841,10455973,1983-01-19,3879494,2484696,,,,,3651,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Eastern Canada,Eastern Canada,1983-01-01,0,0,0,,,1983-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1983-01-01,0,0,0,,,1983-01-01,0,,,0,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central Alberta,AB,1983-01-01,0,0,0,,,1983-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Grande Prairie AB,AB,1982-07-13,0,0,0,,,1982-08-03,0,0,,,,,,115994,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Montreal (Sainte-Rose) QC,QC,1982-06-14,5,26,0,,,1982-06-14,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sherbrooke QC,QC,1982-04-17,0,0,300,,,1982-04-17,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Îles-de-la-Madeleine QC,QC,1982-02-22,0,0,75,,,1982-02-22,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prince Edward Island,PE,1982-02-22,0,0,0,1585054,2754356.1,1982-02-22,1340291,244763,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Off the coast of Newfoundland,NL,1982-02-14,117,0,0,,,1982-02-14,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Labrador City NL,NL,1982-01-19,0,0,2000,,,1982-01-19,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Across Canada,Across Canada,1982-01-05,0,0,0,,,1982-01-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Aklavik NT,NT,1982-01-01,0,0,0,141412,245732.3,1982-01-01,46278,95134,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Hay River NT,NT,1982-01-01,0,0,0,572824,995399.1,1982-01-01,413342,159482,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Greater Vancouver BC,BC,1981-10-30,10,0,0,3130147,6032646.9,1981-10-31,217888,2912259,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Squamish BC,BC,1981-10-28,9,0,0,,,1981-10-28,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Westfield and Grand Bay NB,NB,1981-08-01,0,0,0,,,1981-08-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Calgary AB,AB,1981-07-28,2,0,0,,,1981-07-28,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Golden BC,BC,1981-02-23,3,0,0,,,1981-02-23,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southeastern ON,ON,1981-02-18,0,0,0,1668590,3215828,1981-02-20,0,0,,1668590,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Edmonton AB,AB,1981-01-01,4,0,0,,,1981-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sussex NB,NB,1981-01-01,0,0,80,22248,42878,1981-01-01,0,0,22248,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Quebec,QC,1981-01-01,0,0,0,,,1981-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1981-01-01,0,0,0,1854,3573.2,1981-01-01,0,0,,,,,1854,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Squamish River BC,BC,1980-12-26,0,0,3000,10143000,21991868.2,1980-12-27,4328769,5814231,,,,,,119127,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southwest British Columbia,BC,1980-12-04,3,0,0,,,1980-12-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Gaspésie Region QC,QC,1980-07-06,0,0,160,,,1980-07-07,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Red Lake ON,ON,1980-06-01,0,0,5000,,,1980-06-01,0,0,,,,,,0,0
+Disaster,Natural,Geological,Landslide,"Belmoral Mine, Val d'Or, QC",QC,1980-05-20,8,0,0,,,1980-05-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1980-03-21,0,0,0,,,1980-03-22,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Drumheller AB,AB,1980-01-01,0,0,0,,,1980-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Vancouver Island BC,BC,1979-12-18,0,0,0,2642670,6302768,1979-12-18,26635,2616035,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Southern Quebec,QC,1979-09-13,0,0,0,,,1979-09-13,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,New Brunswick,NB,1979-09-06,0,0,0,,,1979-09-07,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Woodstock ON,ON,1979-08-07,2,0,0,,,1979-08-07,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Montreal QC,QC,1979-06-05,0,0,0,,,1979-06-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central Ontario,ON,1979-05-12,0,0,0,,,1979-05-12,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Dawson YT,YT,1979-05-03,0,0,0,1854000,4421790,1979-05-03,1682054,171946,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central Ontario,ON,1979-04-24,0,0,0,,,1979-04-24,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,New Brunswick,NB,1979-04-24,0,0,0,3227650,7697945.3,1979-05-07,1545488,1682162,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red River region MB,MB,1979-04-01,0,0,10000,18557303,44259167.7,1979-05-31,14670604,3886699,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern Ontario,ON,1979-03-05,0,0,0,,,1979-03-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Golden BC,BC,1979-02-14,7,0,0,,,1979-02-14,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Yukon to Ontario,Across Canada,1979-02-08,0,0,0,,,1979-02-20,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Calgary AB,AB,1979-01-01,0,0,0,,,1979-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lethbridge AB,AB,1979-01-01,0,0,0,,,1979-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,AB,1979-01-01,0,0,0,,,1979-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Kicking Horse Pass, Alberta - British Columbia border",BC AB,1978-11-01,0,0,0,20087353,52358838.1,1978-11-01,7372141,12715212,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northwestern British Columbia,BC,1978-10-29,2,0,40,8277755,21576443.4,1978-11-07,3037970,5239785,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,St. John's NL,NL,1978-09-05,0,0,0,,,1978-09-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Edmonton AB,AB,1978-07-10,0,0,0,1597600,4164236.1,1978-07-11,87859,1509741,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Winnipeg MB,MB,1978-05-25,0,0,0,,,1978-05-25,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Milk River and area AB,AB,1978-04-01,0,0,0,,,1978-08-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Fundy Isles NB,NB,1978-02-01,0,0,0,,,1978-02-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southwestern Ontario,ON,1978-01-26,8,400,0,,,1978-01-26,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Newfoundland,NL,1978-01-14,0,0,0,5235779,13647358.4,1978-01-16,3588601,1647178,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Central Ontario,ON,1978-01-01,0,0,0,,,1978-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Corner Brook NL,NL,1977-12-27,0,0,0,,,1977-12-27,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern and Central Ontario,ON,1977-03-13,0,0,0,,,1977-03-13,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Niagara Peninsula ON,ON,1977-01-28,0,0,0,,,1977-01-31,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1977-01-01,0,0,0,,,1977-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Fort McMurray, Rainbow Lake AB",AB,1977-01-01,0,0,0,,,1977-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Toronto ON,ON,1976-08-27,0,0,0,,,1976-08-27,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,New Brunswick and Quebec,QC NB,1976-08-10,0,0,0,,,1976-08-11,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Moncton NB,NB,1976-07-12,0,0,0,8005500,24557064.3,1976-07-12,3065714,4939786,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Grand Falls NL,NL,1976-05-04,2,0,0,,,1976-05-04,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Assiniboine River MB,MB,1976-04-01,0,0,0,4545103,13942213.1,1976-04-01,2134809,2410294,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1976-03-31,2,0,400,975000,2990836,1976-04-05,155109,819891,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan,SK,1976-03-01,0,0,0,1947804,5974935.7,1976-04-15,530877,1416927,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Quebec,QC,1976-03-01,0,0,0,20500000,62884244.4,1976-07-15,7582330,12917670,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,New Brunswick,NB,1976-02-02,0,0,0,8005500,24557064.3,1976-02-03,3065714,4939786,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm Surge,"Western, Central and Northern NS",NS,1976-02-02,0,0,0,4137800,12692801.3,1976-02-03,2067621,2070179,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Region of Quebec City and Trois-Rivières QC,QC,1976-01-02,1,10,0,,,1976-01-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Lake Superior ON,ON,1975-11-10,29,0,0,,,1975-11-10,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Îles-de-la-Madeleine QC,QC,1975-07-28,1,0,0,,,1975-07-28,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Saint Bonaventure QC,QC,1975-07-25,3,59,918,,,1975-07-25,0,0,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Devastation Glacier BC,BC,1975-07-22,4,0,0,,,1975-07-22,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Regina SK,SK,1975-06-25,0,0,0,2828222,9303875.1,1975-06-25,640274,2187948,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern AB,AB,1975-06-01,1,0,0,,,1975-06-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan,SK,1975-04-01,0,0,0,1893852,6230120,1975-05-31,493226,1400626,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Vancouver Island BC,BC,1975-03-01,14,0,0,,,1975-03-01,,0,0,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Saint John, Sussex Corner and Chaleur Bay NB",NB,1975-01-01,0,0,0,,,1975-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Southeast YT,YT,1974-07-15,0,0,0,,,1974-07-15,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Charlottetown PE,PE,1974-07-03,0,0,0,143000,520694.7,1974-07-03,13473,129527,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Cambridge/Waterloo Region ON,ON,1974-05-17,0,0,0,,,1974-05-21,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Newfoundland,NL,1974-05-15,0,0,0,5151752,18758669.5,1974-07-31,3540871,1610881,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Hay River Township, south shore of Great Slave Lake NT",NT,1974-05-02,0,0,0,,,1974-05-02,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1974-04-29,0,0,0,800539,2914939.7,1974-04-29,73470,727069,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Windsor ON,ON,1974-04-03,9,30,0,,,1974-04-03,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central and Southern Manitoba,MB,1974-04-01,0,0,0,14523061,52881680.1,1974-05-31,11464005,3059056,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central and Northern Alberta,AB,1974-03-01,0,0,0,8532000,31066900.8,1974-06-30,4246073,4285927,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan,SK,1974-01-01,0,0,1400,6611800,24075027.5,1974-01-01,4151261,2460539,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Maniwaki QC,QC,1974-01-01,0,0,10000,21765136,79251678.4,1974-06-30,8670477,13094659,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1974-01-01,0,0,0,,,1974-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Cedoux SK,SK,1973-08-27,0,0,0,,,1973-08-27,0,0,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Harbour Breton NL,NL,1973-08-01,4,0,0,,,1973-08-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Newfoundland, Prince Edward Island and Nova Scotia",NS PE NL,1973-06-17,0,0,0,5330000,21545847.5,1973-06-17,2314500,3015500,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1973-04-27,1,0,1600,7311000,29553788.1,1973-05-05,4225495,3085505,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Barrie ON,ON,1973-03-18,12,43,0,,,1973-03-18,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lake Huron ON,ON,1973-03-01,0,0,0,,,1973-04-30,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Ontario,ON,1973-01-01,0,0,0,,,1973-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1973-01-01,0,0,0,,,1973-01-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Smoky and Peace River Basins AB,AB,1972-06-11,0,0,105,,,1972-06-13,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Corner Brook NL,NL,1972-05-15,1,0,0,,,1972-05-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Prince George BC,BC,1972-05-01,0,0,0,5300000,23087671.2,1972-05-01,1662223,3637777,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Richelieu River QC,QC,1972-04-01,0,0,0,,,1972-06-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southwestern Quebec,QC,1972-02-19,0,0,0,,,1972-02-19,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Victoriaville QC,QC,1971-08-27,0,0,0,,,1971-08-27,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Dartmouth NS,NS,1971-08-15,0,0,0,2426000,11073703.3,1971-08-16,833229,1592771,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Western Prairies,Prairies,1971-07-23,0,0,0,,,1971-07-23,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,"Maniwaki, Déléage, Egan, South Region of Outaouais QC",QC,1971-05-14,2,11,100,,,1971-05-14,0,0,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Fraser Canyon BC,BC,1971-05-04,3,0,0,,,1971-05-04,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Saint-Jean-Vianney QC,QC,1971-05-04,31,0,1500,1250000,5705741.6,1971-05-04,1250000,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint-Jean QC,QC,1971-05-01,0,0,0,,,1971-05-01,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Montreal QC,QC,1971-04-01,0,0,0,,,1971-04-30,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Montreal QC,QC,1971-03-04,0,0,0,,,1971-03-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Nova Scotia,NS,1971-02-13,,,,,,1971-02-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Terrace BC,BC,1971-01-01,7,0,1,,,1971-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,"Sudbury, Lively, Coppercliff and Field ON",ON,1970-08-20,6,200,0,75000,352463.1,1970-08-20,75000,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central Ontario,ON,1970-06-27,0,0,0,,,1970-06-28,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1970-04-30,0,0,0,,,1970-04-30,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Chaudière River QC,QC,1970-04-22,0,0,0,,,1970-05-05,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,St. John's NL,NL,1970-02-27,0,0,0,,,1970-02-27,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1970-02-02,3,0,0,3737000,17562059.1,1970-02-06,1550023,2186977,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Montreal QC,QC,1969-12-28,15,0,0,,,1969-12-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Edmonton AB,AB,1969-08-04,0,0,0,,,1969-08-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Newfoundland,NL,1969-05-19,0,0,0,,,1969-05-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Iroquois NB,NB,1969-05-11,1,0,0,,,1969-05-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1969-05-02,0,0,0,,,1969-05-02,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Porteau BC,BC,1969-02-09,3,1,0,,,1969-02-09,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Halifax NS,NS,1969-02-02,0,0,0,,,1969-02-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1969-01-01,0,0,0,,,1969-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Qu'Appelle River Basin SK,SK,1969-01-01,0,0,0,,,1969-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Maritimes provinces,Maritimes,1968-10-21,1,0,0,,,1968-10-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Lambeth ON,ON,1968-08-19,0,0,0,,,1968-08-19,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Camp Creek BC,BC,1968-06-05,4,0,0,,,1968-06-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern and Southern Ontario,ON,1968-02-02,0,0,0,,,1968-02-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Ontario,ON,1968-01-13,0,0,0,,,1968-01-13,,,,,,,,1027473,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1968-01-01,0,0,0,,,1968-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Nova Scotia,NS,1967-10-11,0,0,0,,,1967-10-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Alberta,AB,1967-04-17,0,0,0,,,1967-04-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Huron and Perth counties ON,ON,1967-04-17,0,0,0,,,1967-04-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1967-01-01,0,0,0,,,1967-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,New Brunswick,NB,1967-01-01,0,0,0,,,1967-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Baie-Comeau QC,QC,1966-11-03,5,0,0,,,1966-11-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1966-04-14,0,0,0,,,1966-04-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Winnipeg MB,MB,1966-03-04,0,0,0,,,1966-03-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,St. Lawrence counties of Quebec,QC,1966-01-01,0,0,0,,,1966-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prince Edward Island,PE,1966-01-01,0,0,0,,,1966-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Granduc Mine BC,BC,1965-02-18,26,22,0,,,1965-02-18,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Ocean Falls BC,BC,1965-01-14,7,0,0,,,1965-01-14,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Hope BC,BC,1965-01-09,4,0,0,,,1965-01-09,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,"Ontario, Quebec and New Brunswick",ON QC NB,1965-01-01,0,0,0,,,1965-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,St. Lawrence River QC,QC,1965-01-01,20,0,0,,,1965-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Southern Prairies,Prairies,1964-12-15,3,0,0,,,1964-12-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Maritime provinces,Maritimes,1964-12-01,23,8,0,,,1964-12-02,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Ramsey Arm BC,BC,1964-09-16,5,0,0,,,1964-09-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Nova Scotia,NS,1964-09-13,0,0,0,,,1964-09-16,,,,,,,,0,0
+Disaster,Natural,Geological,Tsunami,Port Alberni BC,BC,1964-03-28,0,0,0,,,1964-03-28,,,,,,,,0,8
+Disaster,Natural,Meteorological - Hydrological,Drought,Ontario and Quebec,ON QC,1964-01-01,0,0,0,,,1964-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1964-01-01,0,0,0,,,1964-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Saint-Joachim-de-Tourelle QC,QC,1963-12-11,4,0,236,,,1963-12-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Nova Scotia,NS,1963-07-26,5,0,0,,,1963-07-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Hay River Township, south shore of Great Slave Lake NT",NT,1963-05-03,0,0,1800,,,1963-05-03,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Ontario,ON,1963-01-01,0,0,0,,,1963-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1963-01-01,0,0,0,,,1963-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Toulnustouc River QC,QC,1962-12-11,9,0,0,,,1962-12-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,West coast British Columbia,BC,1962-10-12,7,0,0,,,1962-10-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Nova Scotia,NS,1962-10-07,0,0,0,,,1962-10-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southeastern New Brunswick,NB,1962-03-31,,,,,,1962-04-04,,,,,,,,584656,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Prince Edward Island,PE,1962-01-01,0,0,0,,,1962-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1962-01-01,0,0,0,,,1962-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northwestern British Columbia,BC,1961-10-10,0,0,100,,,1961-10-14,,,,,,,,236364,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Timmins ON,ON,1961-08-31,5,0,0,,,1961-08-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,South Central Saskatchewan,SK,1961-05-30,0,0,0,,,1961-05-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1961-05-25,1,0,0,,,1961-05-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Montreal QC,QC,1961-02-25,0,0,0,,,1961-02-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1961-01-01,0,0,0,,,1961-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,McBride BC,BC,1960-09-07,3,0,0,,,1960-09-07,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern and Central Ontario,ON,1960-05-09,0,0,0,,,1960-05-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1960-04-18,0,0,0,,,1960-04-18,,,,,,,,0,0
+Disaster,Natural,Geological,Tsunami,British Columbia,BC,1960-01-01,0,0,0,,,1960-01-01,,,,,,,,0,9
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1960-01-01,0,0,0,,,1960-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Maritimes provinces,Maritimes,1959-06-20,33,0,0,,,1959-06-20,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Revelstoke BC,BC,1959-03-27,4,0,0,,,1959-03-27,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,"The Battery, St. John's Harbour NL",NL,1959-02-16,5,9,0,,,1959-02-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,St. John's NL,NL,1959-02-16,6,10,0,,,1959-02-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1959-01-01,0,0,0,,,1959-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,St. John's NL,NL,1958-03-01,0,0,0,,,1958-03-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Amaranth MB,MB,1958-01-01,0,0,0,,,1958-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1958-01-01,0,0,0,,,1958-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Prince Rupert BC,BC,1957-11-22,7,0,0,,,1957-11-22,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Peace River BC,BC,1957-10-15,0,0,0,,,1957-10-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Thetford Mines QC,QC,1957-01-01,0,0,0,,,1957-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1956-08-30,0,0,0,,,1956-08-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Nova Scotia,NS,1956-01-03,0,0,0,,,1956-01-18,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Nicolet QC,QC,1955-11-12,3,6,2000,,,1955-11-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Lake Louise AB,AB,1955-07-11,7,0,0,,,1955-07-11,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Quebec and Ontario,ON QC,1955-07-01,0,0,0,24402775,165108137.2,1955-08-31,,,23207778,1194997,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Manitoba and Saskatchewan,SK MB,1955-01-01,0,0,0,,,1955-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Toronto ON,ON,1954-10-14,81,0,7472,,,1954-10-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,New Brunswick,NB,1954-09-11,0,0,0,,,1954-09-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1954-02-15,0,0,0,,,1954-02-18,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,White Point Beach NS,NS,1954-01-30,0,0,0,,,1954-01-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Toronto ON,ON,1953-08-24,1,186,0,,,1953-09-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Central Alberta,AB,1953-07-14,0,0,0,,,1953-07-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Sarnia ON,ON,1953-05-21,7,40,500,,,1953-05-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storm - Unspecified / Other,Lake Superior ON,ON,1953-01-01,17,0,0,,,1953-01-01,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Across Canada,Across Canada,1953-01-01,481,8000,0,,,1953-12-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Eastend SK,SK,1952-04-01,0,0,0,,,1952-05-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Stephenville Crossing, Summerside NL",NL,1951-12-19,0,0,600,,,1951-12-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Bow River BC,BC,1951-01-01,0,0,0,,,1951-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sumas and Chilliwack BC,BC,1951-01-01,0,0,376,,,1951-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Regina SK,SK,1950-11-01,0,0,0,,,1950-11-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Nova Scotia,NS,1950-08-01,0,0,0,,,1950-08-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1950-05-05,1,0,107000,,,1950-06-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1950-04-20,0,0,0,,,1950-04-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1950-04-04,0,0,0,,,1950-04-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1950-03-24,0,0,0,,,1950-03-29,,,,,,,,0,0
+Disaster,Natural,Geological,Earthquake,Off Queen Charlotte Islands BC,BC,1949-08-22,0,0,0,,,1949-08-22,,,,,,,,0,8
+Disaster,Natural,Meteorological - Hydrological,Flood,St. John's NL,NL,1948-09-14,1,0,0,,,1948-09-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Fraser River BC,BC,1948-05-31,10,0,16000,,,1948-05-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Mississagi ON,ON,1948-05-01,0,0,0,,,1948-10-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red Deer River AB,AB,1948-04-21,0,0,,,,1948-04-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1948-03-16,0,0,0,,,1948-03-16,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Bristol NB,NB,1947-04-30,2,0,100,,,1947-04-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern ON,ON,1947-04-05,0,0,0,,,1947-04-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Elgin NB,NB,1947-02-05,2,0,0,,,1947-02-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prairie provinces,Prairies,1947-01-30,0,0,0,,,1947-02-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Okanagan Valley BC,BC,1946-07-29,0,0,0,,,1946-07-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Windsor to Tecumseh ON,ON,1946-06-17,17,100,0,,,1946-06-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Toronto ON,ON,1944-12-11,21,0,0,,,1944-12-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Charlottetown PE,PE,1942-09-22,0,0,0,,,1942-09-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,"Newfoundland, off coast",NL,1942-01-01,203,0,0,,,1942-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Southwestern Ontario,ON,1941-09-25,0,0,0,,,1941-09-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Burin Peninsula, St. John's and Little St. Lawrence NL",NL,1941-08-02,2,0,0,,,1941-08-02,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Gogama ON,ON,1941-05-14,0,0,0,,,1941-06-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Prairie provinces,Prairies,1941-03-14,76,0,0,,,1941-03-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Great Lakes: Lake Ontario,ON,1940-01-01,69,0,0,,,1940-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Saskatchewan,SK,1939-01-01,0,0,0,,,1939-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Rainy River and Dance Township ON,ON,1938-10-10,17,0,155,,,1938-10-15,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,St-Gregoire-de-Montmercy QC,QC,1938-09-01,4,12,0,,,1938-09-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1937-04-26,0,0,4000,,,1937-04-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1937-01-13,0,0,0,,,1937-01-14,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Nova Scotia,NS,1936-09-01,0,0,0,,,1936-09-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Northern Saskatchewan,SK,1936-07-13,,,,,,1936-07-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Across Canada,Across Canada,1936-07-05,1180,0,0,,,1936-07-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,New Brunswick,NB,1936-03-16,0,0,0,,,1936-03-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1936-03-10,0,0,0,,,1936-03-12,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Newfoundland,NL,1935-08-25,50,0,0,,,1935-08-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Nova Scotia,NS,1935-01-10,,,2,,,1935-01-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Manitoba,MB,1935-01-01,0,0,0,,,1935-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Plaster Rock NB,NB,1934-04-16,0,0,0,,,1934-04-24,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Cold Event,Manitoba to Atlantic Canada,MB,1933-12-01,15,0,0,,,1934-02-01,,,,,,,,0,0
+Disaster,Natural,Geological,Earthquake,Baffin Bay NU,NU,1933-11-20,0,0,0,,,1933-11-20,,,,,,,,0,7
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern New Brunswick,NB,1933-10-25,7,0,0,,,1933-10-25,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,New Brunswick and Eastern Quebec,QC NB,1933-05-04,3,0,0,,,1933-05-04,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1931-01-01,0,0,0,,,1938-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Crerar ON,ON,1930-06-27,8,0,0,,,1930-06-27,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,St. Lawrence River,,1930-06-26,30,11,0,,,1930-06-26,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Capreol ON,ON,1930-06-26,4,0,0,,,1930-06-26,,,,,,,,0,0
+Disaster,Natural,Geological,Tsunami,Burin Peninsula NL,NL,1929-11-18,28,0,0,,,1929-11-18,,,,,,,,0,7
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1929-04-05,0,0,0,,,1929-04-09,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Ontario,ON,1929-01-18,0,0,0,,,1929-01-20,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1929-01-01,0,0,0,,,1929-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Pike Lake SK,SK,1928-04-01,0,0,138,,,1928-04-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Rideau, Chaudière and Quyon Rivers QC",QC,1928-01-01,3,0,0,,,1928-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,Newfoundland,NL,1927-08-24,56,0,0,,,1927-08-25,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Across Canada,Across Canada,1927-03-01,,0,0,,,1927-09-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Dawson YT,YT,1925-05-07,0,0,0,,,1925-05-07,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1924-01-01,0,0,0,,,1924-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1923-04-29,2,0,0,,,1923-05-09,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1923-01-01,0,0,0,,,1923-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Haileybury ON,ON,1922-09-30,43,0,11000,,,1922-10-05,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Echo Harbour BC,BC,1922-09-30,5,0,0,,,1922-09-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Portage la Prairie MB,MB,1922-06-22,5,0,0,,,1922-06-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1922-06-17,0,0,0,,,1922-06-25,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Britannia Beach BC,BC,1921-10-28,37,0,0,,,1921-10-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,St. John's NL,NL,1921-02-08,0,0,0,,,1921-02-08,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Southern Saskatchewan,SK,1921-01-01,0,0,0,,,1921-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Southeastern Saskatchewan,SK,1920-07-22,4,13,,,,1920-07-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern Ontario,ON,1920-03-17,0,0,0,,,1920-03-21,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1920-01-01,0,0,0,,,1920-12-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1919-01-01,0,0,0,,,1919-12-31,,,,,,,,0,0
+Disaster,Natural,Biological,Epidemic,Across Canada,Across Canada,1918-01-01,50000,2000000,0,,,1925-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1918-01-01,0,0,0,,,1918-12-31,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northwestern British Columbia,BC,1917-10-28,0,0,0,,,1917-11-19,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1917-01-01,0,0,0,,,1917-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Cochrane and Matheson ON,ON,1916-07-29,233,0,8000,,,1916-07-29,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Winnipeg MB,MB,1916-04-24,0,0,0,,,1916-04-24,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Northeastern New Brunswick,NB,1915-07-08,0,0,0,,,1915-07-09,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,"Cooper Mine, Jane Camp BC",BC,1915-03-22,56,22,0,,,1915-03-22,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,North Saskatchewan River AB and SK,AB SK,1915-01-01,0,0,2000,,,1915-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Labrador,NL,1914-04-01,77,0,0,,,1914-04-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,Newfoundland coast,NL,1914-01-01,173,0,0,,,1914-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1914-01-01,0,0,0,,,1914-01-01,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Storms and Severe Thunderstorms,"Lakes Huron, Erie and Ontario",ON,1913-11-07,270,0,0,,,1913-11-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Heat Event,Eastern Canada,Eastern Canada,1912-07-08,3,0,0,,,1912-07-10,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Tornado,Regina SK,SK,1912-06-30,28,100,2500,,,1912-06-30,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Wildfire,Cochrane ON,ON,1911-07-11,73,0,200,,,1911-07-11,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Coucoucache QC,QC,1910-04-18,6,0,0,,,1910-04-18,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,St-Alphonse-de-Bagotville QC,QC,1910-04-15,4,0,0,,,1910-04-15,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Avalanche,Rogers Pass BC,BC,1910-03-05,62,0,0,,,1910-03-05,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Drought,Prairie provinces,Prairies,1910-01-01,0,0,0,,,1910-01-01,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Burnaby and New Westminster BC,BC,1909-11-28,22,15,0,,,1909-11-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Chester NB,NB,1909-01-04,1,0,0,,,1909-01-04,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Notre-Dame-de-la-Salette QC,QC,1908-04-26,33,0,0,,,1908-04-26,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Spences Bridge BC,BC,1905-08-13,15,0,0,,,1905-08-13,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Winter Storm,Nova Scotia,NS,1905-02-15,0,0,0,,,1905-02-17,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red River MB,MB,1904-04-24,0,0,0,,,1904-04-24,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Frank AB,AB,1903-04-29,70,23,0,,,1903-04-29,,,,,,,,0,0
+Disaster,Natural,Geological,Landslide,Upper Arrow Lake BC,BC,1903-02-28,0,0,0,,,1903-02-28,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saint John River Basin NB,NB,1902-03-01,2,0,0,,,1902-03-01,,,,,,,,0,0
